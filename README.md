@@ -13,5 +13,5 @@
 
 ### Contact Us
 
-For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.engineeringgood.org/) or [contact us](contactus@engineeringgood.org).
+For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.engineeringgood.org/), [contact us](https://www.engineeringgood.org/contact-faq/) or email us at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org).
 <!-- ABOUT EG END -->
