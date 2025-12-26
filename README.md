@@ -8,8 +8,8 @@
 Engineering Good Ltd is a Singapore-registered charity that brings together a community of staff and volunteers with diverse skills, including tech, engineering, and more, to serve the needs of disadvantaged communities in Singapore. Our vision is to engineer a better and more inclusive world. 
 
 ## Our Key User
-1 – Persons with Disabilities (PWDs) through affordable, open-source Assistive Technology
-2 – Disadvantaged and vulnerable individuals and families through digital inclusion initiatives
+1. Persons with Disabilities (PWDs) through affordable, open-source Assistive Technology
+2. Disadvantaged and vulnerable individuals and families through digital inclusion initiatives
 
 
 ## More Details About EG
