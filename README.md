@@ -1,5 +1,5 @@
 <!-- ABOUT EG START -->
-# About Engineering Good (EG)
+# About Engineering Good(EG)
 
 <img src="Photos/EG-staff-and-volunteers-2025-scaled.jpg" width="500" alt="Picture of EG staff and volunteers.">
 
